@@ -1,4 +1,4 @@
-### Hi there Hi there, I'm Raghuveer - aka Raghuveer Draksharam 👋
+### Hi there, I'm Raghuveer - aka Raghuveer Draksharam 👋
 <br>
 
 ### 👨🏻‍💻 About Me
