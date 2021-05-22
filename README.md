@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
