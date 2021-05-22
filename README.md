@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### 🛠 Languages and Tools
 <!-- took all this icons from 
 https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <div>
@@ -46,3 +48,17 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
  
 </div>
+
+
+
+---
+<p align="left">
+<a href="https://github.com/raghuveer88">
+  <img height="160em" src="https://github-readme-stats-git-master.raghuveer88.vercel.app/api?username=raghuveer88&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuveer88&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+
+</a>
+</p>
+
+---
+
