@@ -1,4 +1,4 @@
-### Hi there Hi there, I'm Raghuveer - aka [Raghuveer Draksharam][github] 👋
+### Hi there Hi there, I'm Raghuveer - aka Raghuveer Draksharam 👋
 
 
 
@@ -56,7 +56,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 ---
 <div>
-![Raghuveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuveer88&show_icons=true)
+[![Raghuveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuveer88&show_icons=true)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuveer88&layout=compact&card_width=450)](https://github.com/raghuveer88/github-readme-stats)
 </div>
