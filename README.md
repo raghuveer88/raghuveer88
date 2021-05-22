@@ -1,9 +1,8 @@
 ### Hi there Hi there, I'm Raghuveer - aka Raghuveer Draksharam 👋
-
+<br>
 
 ### 👨🏻‍💻 About Me
-
-<i>I am someone who knows nothing about the future but always focused on present.<br>
+<i>I am someone who knows nothing about the future but always focused on present.
 Wanted to become something when I was kid but land up in the world of computers then turned myself in to a computer science enthusiastic and progressing towards the future of computer science.</i>
 
 
