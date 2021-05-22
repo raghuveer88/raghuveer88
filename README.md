@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-<i>I am someone who knows nothing about the future but always focused on present.
+<i>I am someone who knows nothing about the future but always focused on present.<br>
 Wanted to become something when I was kid but land up in the world of computers then turned myself in to a computer science enthusiastic and progressing towards the future of computer science.</i>
 
 
