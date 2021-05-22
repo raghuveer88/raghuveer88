@@ -58,15 +58,12 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 ---
 <div align="center">
-    <b>Follow me on</b>
+    <b>🏄Follow me on</b>
     <a href="https://github.com/raghuveer88"><br>
         <img src = "https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </div>    
 
-### 🏄follow me on
-
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghuveer88)
 
 
 <div align="center"> 
