@@ -54,7 +54,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ---
 <p align="left">
 <a href="https://github.com/raghuveer88">
-  <img height="160em" src="https://github-readme-stats-git-master.raghuveer88.vercel.app/api?username=raghuveer88&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuveer88&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 
 </a>
