@@ -57,7 +57,10 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuveer88&layout=compact&card_width=450)](https://github.com/raghuveer88/github-readme-stats)
 
 ---
-
+<div>
+    <b>🏄follow me on</b>
+    [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghuveer88)
+</div>    
 ### 🏄follow me on
 
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghuveer88)
